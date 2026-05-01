@@ -65,7 +65,7 @@ Hər gün bir az daha yaxşı versiyam olmaq
 
 🤝 Əlaqə
 
-📧 Email: yourmail@gmail.com
+📧 Email: fatimashg@code.edu.az
 
 ⭐ Profilimi oxuduğun üçün təşəkkür edirəm!
 Əgər buraya qədər oxumusansa, deməli sən də detallara önəm verən birisən — bu artıq yaxşı developer əlamətidir 😄
